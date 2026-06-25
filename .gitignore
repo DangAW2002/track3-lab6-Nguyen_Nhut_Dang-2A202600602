@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab checkpoints and large zip files
+adapters/
+*.zip
+
